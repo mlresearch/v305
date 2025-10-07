@@ -6,6 +6,11 @@ volume: '305'
 start: &1 2025-09-27
 end: 2025-09-30
 published: 2025-10-07
+sections:
+- name: Oral
+  title: Oral
+- name: Poster
+  title: Poster
 conference_number: '9'
 layout: proceedings
 series: Proceedings of Machine Learning Research
@@ -88,6 +93,6 @@ link_visibility:
   arxiv: true
   doi: true
   website: true
-orig_bibfile: corl25_clean_clean.bib
+orig_bibfile: corl25_cleaned_clean.bib
 # Site settings
-# Original source:  corl25_clean_clean.bib
+# Original source:  corl25_cleaned_clean.bib
