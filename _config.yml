@@ -3,7 +3,7 @@ booktitle: Proceedings of The 9th Conference on Robot Learning
 shortname: CoRL
 year: '2025'
 volume: '305'
-start: &1 2025-09-27
+start: 2025-09-27
 end: 2025-09-30
 published: 2025-10-07
 sections:
